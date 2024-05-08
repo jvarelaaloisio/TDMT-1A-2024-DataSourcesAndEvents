@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.jvarelaaloisio.events": {
+      "version": "https://github.com/jvarelaaloisio/EventChannelsSystem-UnityPackage.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "412befe57b640b8acb964cde461f16da584a16c3"
+    },
     "com.unity.collab-proxy": {
       "version": "2.3.1",
       "depth": 0,
